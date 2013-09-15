@@ -10,3 +10,4 @@ class Webserver {
 		Syste.out.println("Waiting for connection");
 		connection = providerSocket.accept();
 	}
+}
